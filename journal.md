@@ -1,0 +1,2 @@
+Day 1:
+I am very excited to continue working on this side project with my current teamate Kyle December. The reason we chose to do this project was to expand our comfort zone on what we could do with scripting and machine learning. Today we set up a very basic model following the "Getting Started" page on the Kaggle website and researched how we are going to collect data to be able to use machine learning. 
